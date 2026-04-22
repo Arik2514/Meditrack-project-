@@ -10,3 +10,5 @@ This RESTful API manages basic patient records. Built with Python and Flask.
 
 
 Components: GitHub, Jenkins, Docker Hub, EKS, Prometheus, Grafana.
+Meditrack2026 project
+
